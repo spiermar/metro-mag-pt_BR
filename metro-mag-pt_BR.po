@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Metro Magazine\n"
 "POT-Creation-Date: 2013-02-14 11:51+0200\n"
-"PO-Revision-Date: 2013-02-14 11:51+0200\n"
+"PO-Revision-Date: 2016-12-06 10:33-0800\n"
 "Last-Translator: \n"
 "Language-Team: Well Themes <info@wellthemes.com>\n"
-"Language: English\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.3\n"
+"X-Generator: Poedit 1.8.11\n"
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../404.php:18
 msgid "This is somewhat embarrassing, isn&rsquo;t it?"
-msgstr ""
+msgstr "Isto é um pouco constrangedor, não é?"
 
 #: ../404.php:22
 msgid ""
@@ -58,7 +58,7 @@ msgstr ""
 #: ../author.php:30
 #, php-format
 msgid "Author Archives: %s"
-msgstr ""
+msgstr "Autor: %s"
 
 #: ../author.php:50 ../content-page.php:43 ../content-single.php:49
 #, php-format
@@ -68,7 +68,7 @@ msgstr ""
 #: ../category.php:21
 #, php-format
 msgid "Category Archives: %s"
-msgstr ""
+msgstr "Categoria: %s"
 
 #: ../comments.php:18
 msgid ""
@@ -98,7 +98,7 @@ msgstr ""
 #: ../includes/feat-cat4.php:78 ../includes/feat-cat4.php:153
 #: ../includes/feat-cat5.php:78 ../includes/feat-cat5.php:153
 msgid "no comments"
-msgstr ""
+msgstr "sem comentários"
 
 #: ../content-excerpt.php:36 ../content-page.php:20 ../content-single.php:26
 #: ../includes/feat-cat1.php:78 ../includes/feat-cat1.php:153
@@ -129,11 +129,11 @@ msgstr ""
 #: ../content-page.php:47 ../content-single.php:57
 #, php-format
 msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "Veja todos posts de %s <span class=\"meta-nav\">&rarr;</span>"
 
 #: ../content-single.php:26 ../includes/feat-textposts.php:57
 msgid "No comments"
-msgstr ""
+msgstr "Sem comentários"
 
 #: ../footer.php:27 ../sidebar-left.php:21 ../sidebar-right.php:27
 msgid "Popular Categories"
@@ -141,59 +141,59 @@ msgstr ""
 
 #: ../functions.php:20
 msgid "year"
-msgstr ""
+msgstr "ano"
 
 #: ../functions.php:20
 msgid "years"
-msgstr ""
+msgstr "anos"
 
 #: ../functions.php:21
 msgid "month"
-msgstr ""
+msgstr "mês"
 
 #: ../functions.php:21
 msgid "months"
-msgstr ""
+msgstr "meses"
 
 #: ../functions.php:22
 msgid "week"
-msgstr ""
+msgstr "semana"
 
 #: ../functions.php:22
 msgid "weeks"
-msgstr ""
+msgstr "semanas"
 
 #: ../functions.php:23
 msgid "day"
-msgstr ""
+msgstr "dia"
 
 #: ../functions.php:23
 msgid "days"
-msgstr ""
+msgstr "dias"
 
 #: ../functions.php:24
 msgid "hour"
-msgstr ""
+msgstr "hora"
 
 #: ../functions.php:24
 msgid "hours"
-msgstr ""
+msgstr "horas"
 
 #: ../functions.php:25
 msgid "minute"
-msgstr ""
+msgstr "minuto"
 
 #: ../functions.php:25
 msgid "minutes"
-msgstr ""
+msgstr "minutos"
 
 #: ../functions.php:26
 msgid "second"
-msgstr ""
+msgstr "segundo"
 
 #: ../functions.php:26 ../functions.php:65
 msgid "seconds"
-msgstr ""
+msgstr "segundos"
 
 #: ../functions.php:43
 msgid "sometime"
@@ -201,12 +201,12 @@ msgstr ""
 
 #: ../functions.php:68 ../framework/widgets/widget_recent_comments.php:83
 msgid " ago"
-msgstr ""
+msgstr " atrás"
 
 #: ../header.php:49
 #, php-format
 msgid "Page %s"
-msgstr ""
+msgstr "Página %s"
 
 #: ../image.php:25
 msgid "Original Image size: "
@@ -310,7 +310,7 @@ msgstr ""
 #: ../search.php:20
 #, php-format
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Resultados da Procura: %s"
 
 #: ../search.php:45
 msgid ""
@@ -1206,7 +1206,7 @@ msgstr ""
 #: ../framework/widgets/widget_latest_tweets.php:70
 #, php-format
 msgid "%s ago"
-msgstr ""
+msgstr "%s atrás"
 
 #: ../framework/widgets/widget_fb_recent_posts.php:186
 msgid "User ID:"
@@ -1359,7 +1359,7 @@ msgstr ""
 #: ../framework/widgets/widget_recent_tags.php:66
 #, php-format
 msgid "View all posts in %s"
-msgstr ""
+msgstr "Veja todos posts em %s"
 
 #: ../framework/widgets/widget_social_links.php:35
 msgid "Displays the social media links. Suitable for sidebar and footer."
@@ -1371,15 +1371,15 @@ msgstr ""
 
 #: ../framework/widgets/widget_social_links.php:62
 msgid "Follow us on twitter"
-msgstr ""
+msgstr "No siga no Twitter"
 
 #: ../framework/widgets/widget_social_links.php:62
 msgid "Follow us on Twitter"
-msgstr ""
+msgstr "No siga no Twitter"
 
 #: ../framework/widgets/widget_social_links.php:68
 msgid "Like us on Facebook"
-msgstr ""
+msgstr "Curta a página no Facebook"
 
 #: ../framework/widgets/widget_social_links.php:73
 msgid "Join us on Google+"
@@ -1431,11 +1431,11 @@ msgstr ""
 
 #: ../framework/widgets/widget_subscribers_count.php:89
 msgid "Likes"
-msgstr ""
+msgstr "Curtidas"
 
 #: ../framework/widgets/widget_subscribers_count.php:97
 msgid "Followers"
-msgstr ""
+msgstr "Seguidores"
 
 #: ../framework/widgets/widget_subscribers_count.php:132
 msgid "Twitter Name"
@@ -1513,3 +1513,6 @@ msgstr ""
 #: ../includes/feat-textposts.php:68
 msgid "Recent Posts"
 msgstr ""
+
+msgid "Search"
+msgstr "Procura"
